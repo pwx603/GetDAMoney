@@ -16,7 +16,7 @@
     "bootstrap-vue": "^2.0.0-beta",
     "cross-env": "^5.2.0",
     "express": "^4.16.3",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "sequelize": "^4.42.0"
   },
   "devDependencies": {
